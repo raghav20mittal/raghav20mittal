@@ -4,66 +4,71 @@
 I am a passionate software developer with a focus on **AI/ML, Web Development, and Automation**. Currently working as a **Loan Support Intern at ApplyBoard**, I am skilled in **React.js, Python, Machine Learning, and Backend Development**. My goal is to create impactful solutions that leverage AI for real-world applications.
 
 ---
-
 ## **🔹 Skills**
 
-### **Languages**
-**Python**
-<svg width="200" height="20">
-  <rect width="120" height="20" style="fill:blue;"></rect>
-  <text x="10" y="15" fill="white">60%</text>
-</svg>
+<table>
+  <tr>
+    <td><b>Python</b> <br>
+      <svg width="100" height="15">
+        <rect width="60" height="100%" fill="#4caf50"></rect>
+        <rect width="100" height="100%" fill="none" stroke="#000" stroke-width="1"></rect>
+      </svg> 60%
+    </td>
+    <td><b>JavaScript</b> <br>
+      <svg width="100" height="15">
+        <rect width="30" height="100%" fill="#f1c40f"></rect>
+        <rect width="100" height="100%" fill="none" stroke="#000" stroke-width="1"></rect>
+      </svg> 30%
+    </td>
+    <td><b>HTML & CSS</b> <br>
+      <svg width="100" height="15">
+        <rect width="60" height="100%" fill="#e34c26"></rect>
+        <rect width="100" height="100%" fill="none" stroke="#000" stroke-width="1"></rect>
+      </svg> 60%
+    </td>
+  </tr>
+  <tr>
+    <td><b>TensorFlow & Keras</b> <br>
+      <svg width="100" height="15">
+        <rect width="60" height="100%" fill="#ff6f00"></rect>
+        <rect width="100" height="100%" fill="none" stroke="#000" stroke-width="1"></rect>
+      </svg> 60%
+    </td>
+    <td><b>OpenCV</b> <br>
+      <svg width="100" height="15">
+        <rect width="60" height="100%" fill="#2980b9"></rect>
+        <rect width="100" height="100%" fill="none" stroke="#000" stroke-width="1"></rect>
+      </svg> 60%
+    </td>
+    <td><b>React.js</b> <br>
+      <svg width="100" height="15">
+        <rect width="40" height="100%" fill="#61dafb"></rect>
+        <rect width="100" height="100%" fill="none" stroke="#000" stroke-width="1"></rect>
+      </svg> 40%
+    </td>
+  </tr>
+  <tr>
+    <td><b>Flask</b> <br>
+      <svg width="100" height="15">
+        <rect width="40" height="100%" fill="#000000"></rect>
+        <rect width="100" height="100%" fill="none" stroke="#fff" stroke-width="1"></rect>
+      </svg> 40%
+    </td>
+    <td><b>MongoDB</b> <br>
+      <svg width="100" height="15">
+        <rect width="50" height="100%" fill="#4DB33D"></rect>
+        <rect width="100" height="100%" fill="none" stroke="#000" stroke-width="1"></rect>
+      </svg> 50%
+    </td>
+    <td><b>MySQL</b> <br>
+      <svg width="100" height="15">
+        <rect width="55" height="100%" fill="#00758F"></rect>
+        <rect width="100" height="100%" fill="none" stroke="#000" stroke-width="1"></rect>
+      </svg> 55%
+    </td>
+  </tr>
+</table>
 
-**JavaScript**
-<svg width="200" height="20">
-  <rect width="60" height="20" style="fill:yellow;"></rect>
-  <text x="10" y="15" fill="black">30%</text>
-</svg>
-
-**HTML & CSS**
-<svg width="200" height="20">
-  <rect width="120" height="20" style="fill:blue;"></rect>
-  <text x="10" y="15" fill="white">60%</text>
-</svg>
-
-### **AI/ML**
-**TensorFlow & Keras**
-<svg width="200" height="20">
-  <rect width="120" height="20" style="fill:blue;"></rect>
-  <text x="10" y="15" fill="white">60%</text>
-</svg>
-
-**OpenCV**
-<svg width="200" height="20">
-  <rect width="120" height="20" style="fill:blue;"></rect>
-  <text x="10" y="15" fill="white">60%</text>
-</svg>
-
-### **Web Development**
-**React.js**
-<svg width="200" height="20">
-  <rect width="80" height="20" style="fill:blue;"></rect>
-  <text x="10" y="15" fill="white">40%</text>
-</svg>
-
-**Flask**
-<svg width="200" height="20">
-  <rect width="80" height="20" style="fill:blue;"></rect>
-  <text x="10" y="15" fill="white">40%</text>
-</svg>
-
-### **Databases**
-**MySQL**
-<svg width="200" height="20">
-  <rect width="100" height="20" style="fill:blue;"></rect>
-  <text x="10" y="15" fill="white">50%</text>
-</svg>
-
-**MongoDB**
-<svg width="200" height="20">
-  <rect width="80" height="20" style="fill:blue;"></rect>
-  <text x="10" y="15" fill="white">40%</text>
-</svg>
 
 ---
 
