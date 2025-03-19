@@ -6,12 +6,37 @@ I am a passionate software developer with a focus on **AI/ML, Web Development, a
 ---
 
 ## **🔹 Skills**
-- **Languages:** Python (Intermediate), JavaScript (Beginner), HTML, CSS  
-- **AI/ML:** TensorFlow, Keras, PyTorch, OpenCV, MediaPipe, Scikit-learn  
-- **Web Development:** React.js, Tailwind CSS, Flask  
-- **Databases:** MySQL, MongoDB, SQLite  
-- **Tools & Platforms:** Git/GitHub, VS Code, Google Colab, Jira, Figma  
-- **Soft Skills:** Problem-Solving, Leadership, Time Management, Communication  
+
+### **Languages**
+Python  
+![Python](https://progress-bar.dev/60/?title=Python)  
+
+JavaScript  
+![JavaScript](https://progress-bar.dev/30/?title=JavaScript)  
+
+HTML & CSS  
+![HTML & CSS](https://progress-bar.dev/60/?title=HTML%20%26%20CSS)  
+
+### **AI/ML**
+TensorFlow & Keras  
+![TensorFlow & Keras](https://progress-bar.dev/60/?title=TensorFlow%20%26%20Keras)  
+
+OpenCV  
+![OpenCV](https://progress-bar.dev/60/?title=OpenCV)  
+
+### **Web Development**
+React.js  
+![React.js](https://progress-bar.dev/40/?title=React.js)  
+
+Flask  
+![Flask](https://progress-bar.dev/40/?title=Flask)  
+
+### **Databases**
+MySQL  
+![MySQL](https://progress-bar.dev/50/?title=MySQL)  
+
+MongoDB  
+![MongoDB](https://progress-bar.dev/40/?title=MongoDB)  
 
 ---
 
