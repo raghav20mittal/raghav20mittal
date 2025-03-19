@@ -8,35 +8,62 @@ I am a passionate software developer with a focus on **AI/ML, Web Development, a
 ## **🔹 Skills**
 
 ### **Languages**
-Python  
-![Python](https://progress-bar.dev/60/?title=Python)  
+**Python**
+<svg width="200" height="20">
+  <rect width="120" height="20" style="fill:blue;"></rect>
+  <text x="10" y="15" fill="white">60%</text>
+</svg>
 
-JavaScript  
-![JavaScript](https://progress-bar.dev/30/?title=JavaScript)  
+**JavaScript**
+<svg width="200" height="20">
+  <rect width="60" height="20" style="fill:yellow;"></rect>
+  <text x="10" y="15" fill="black">30%</text>
+</svg>
 
-HTML & CSS  
-![HTML & CSS](https://progress-bar.dev/60/?title=HTML%20%26%20CSS)  
+**HTML & CSS**
+<svg width="200" height="20">
+  <rect width="120" height="20" style="fill:blue;"></rect>
+  <text x="10" y="15" fill="white">60%</text>
+</svg>
 
 ### **AI/ML**
-TensorFlow & Keras  
-![TensorFlow & Keras](https://progress-bar.dev/60/?title=TensorFlow%20%26%20Keras)  
+**TensorFlow & Keras**
+<svg width="200" height="20">
+  <rect width="120" height="20" style="fill:blue;"></rect>
+  <text x="10" y="15" fill="white">60%</text>
+</svg>
 
-OpenCV  
-![OpenCV](https://progress-bar.dev/60/?title=OpenCV)  
+**OpenCV**
+<svg width="200" height="20">
+  <rect width="120" height="20" style="fill:blue;"></rect>
+  <text x="10" y="15" fill="white">60%</text>
+</svg>
 
 ### **Web Development**
-React.js  
-![React.js](https://progress-bar.dev/40/?title=React.js)  
+**React.js**
+<svg width="200" height="20">
+  <rect width="80" height="20" style="fill:blue;"></rect>
+  <text x="10" y="15" fill="white">40%</text>
+</svg>
 
-Flask  
-![Flask](https://progress-bar.dev/40/?title=Flask)  
+**Flask**
+<svg width="200" height="20">
+  <rect width="80" height="20" style="fill:blue;"></rect>
+  <text x="10" y="15" fill="white">40%</text>
+</svg>
 
 ### **Databases**
-MySQL  
-![MySQL](https://progress-bar.dev/50/?title=MySQL)  
+**MySQL**
+<svg width="200" height="20">
+  <rect width="100" height="20" style="fill:blue;"></rect>
+  <text x="10" y="15" fill="white">50%</text>
+</svg>
 
-MongoDB  
-![MongoDB](https://progress-bar.dev/40/?title=MongoDB)  
+**MongoDB**
+<svg width="200" height="20">
+  <rect width="80" height="20" style="fill:blue;"></rect>
+  <text x="10" y="15" fill="white">40%</text>
+</svg>
 
 ---
 
