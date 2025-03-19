@@ -1,74 +1,35 @@
-### **🚀 Raghav Mittal | AI & Full-Stack Enthusiast**
+## Raghav Mittal | AI & Full-Stack Enthusiast**
 🌍 Gurgaon, India | 📧 raghavmittal434@gmail.com | [LinkedIn](https://www.linkedin.com/in/raghavmittal20/)  
 
 I am a passionate software developer with a focus on **AI/ML, Web Development, and Automation**. Currently working as a **Loan Support Intern at ApplyBoard**, I am skilled in **React.js, Python, Machine Learning, and Backend Development**. My goal is to create impactful solutions that leverage AI for real-world applications.
 
 ---
-## **🔹 Skills**
+## 🔹 Skills
 
-<table>
-  <tr>
-    <td><b>Python</b> <br>
-      <svg width="100" height="15">
-        <rect width="60" height="100%" fill="#4caf50"></rect>
-        <rect width="100" height="100%" fill="none" stroke="#000" stroke-width="1"></rect>
-      </svg> 60%
-    </td>
-    <td><b>JavaScript</b> <br>
-      <svg width="100" height="15">
-        <rect width="30" height="100%" fill="#f1c40f"></rect>
-        <rect width="100" height="100%" fill="none" stroke="#000" stroke-width="1"></rect>
-      </svg> 30%
-    </td>
-    <td><b>HTML & CSS</b> <br>
-      <svg width="100" height="15">
-        <rect width="60" height="100%" fill="#e34c26"></rect>
-        <rect width="100" height="100%" fill="none" stroke="#000" stroke-width="1"></rect>
-      </svg> 60%
-    </td>
-  </tr>
-  <tr>
-    <td><b>TensorFlow & Keras</b> <br>
-      <svg width="100" height="15">
-        <rect width="60" height="100%" fill="#ff6f00"></rect>
-        <rect width="100" height="100%" fill="none" stroke="#000" stroke-width="1"></rect>
-      </svg> 60%
-    </td>
-    <td><b>OpenCV</b> <br>
-      <svg width="100" height="15">
-        <rect width="60" height="100%" fill="#2980b9"></rect>
-        <rect width="100" height="100%" fill="none" stroke="#000" stroke-width="1"></rect>
-      </svg> 60%
-    </td>
-    <td><b>React.js</b> <br>
-      <svg width="100" height="15">
-        <rect width="40" height="100%" fill="#61dafb"></rect>
-        <rect width="100" height="100%" fill="none" stroke="#000" stroke-width="1"></rect>
-      </svg> 40%
-    </td>
-  </tr>
-  <tr>
-    <td><b>Flask</b> <br>
-      <svg width="100" height="15">
-        <rect width="40" height="100%" fill="#000000"></rect>
-        <rect width="100" height="100%" fill="none" stroke="#fff" stroke-width="1"></rect>
-      </svg> 40%
-    </td>
-    <td><b>MongoDB</b> <br>
-      <svg width="100" height="15">
-        <rect width="50" height="100%" fill="#4DB33D"></rect>
-        <rect width="100" height="100%" fill="none" stroke="#000" stroke-width="1"></rect>
-      </svg> 50%
-    </td>
-    <td><b>MySQL</b> <br>
-      <svg width="100" height="15">
-        <rect width="55" height="100%" fill="#00758F"></rect>
-        <rect width="100" height="100%" fill="none" stroke="#000" stroke-width="1"></rect>
-      </svg> 55%
-    </td>
-  </tr>
-</table>
+<div align="center">
 
+### Languages & Web Technologies
+<p>
+  <img src="https://img.shields.io/badge/Python-60%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-30%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML%20%26%20CSS-60%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</p>
+
+### Machine Learning & Computer Vision
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow%20%26%20Keras-60%25-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-60%25-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
+
+### Web Frameworks & Databases
+<p>
+  <img src="https://img.shields.io/badge/React.js-40%25-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flask-40%25-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-50%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-55%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+</div>
 
 ---
 
